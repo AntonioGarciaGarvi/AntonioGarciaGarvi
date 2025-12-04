@@ -19,9 +19,9 @@ I am an engineer in Industrial Electronics and Automation, with a particular pas
   
 </p>
 
+--- 
 
-###
-## Contact with me:
+### Contact with me:
 <p align="left">
 
   <!-- LinkedIn -->
