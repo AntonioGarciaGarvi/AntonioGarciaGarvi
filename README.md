@@ -5,26 +5,21 @@ I am an engineer in Industrial Electronics and Automation, with a particular pas
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <!-- Python -->
+<p align="left" style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-       alt="Python" width="40" height="40"/> 
+       alt="Python" width="45" height="45"/>
 
-  <!-- PyTorch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
-       alt="PyTorch" width="40" height="40"/>
+       alt="PyTorch" width="45" height="45"/>
 
-  <!-- OpenCV -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" 
-       alt="OpenCV" width="40" height="40"/>
+       alt="OpenCV" width="45" height="45"/>
 
-  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-       alt="Linux" width="40" height="40"/>
+       alt="Linux" width="45" height="45"/>
 
-  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-       alt="GitHub" width="40" height="40"/>
+       alt="GitHub" width="45" height="45"/>
 </p>
 
 ###
