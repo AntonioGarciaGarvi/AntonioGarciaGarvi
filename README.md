@@ -33,7 +33,7 @@ I am an engineer in Industrial Electronics and Automation, with a particular pas
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/antonio-garcía-garví/" target="_blank">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40">
   </a>
 
   <!-- Personal Website -->
