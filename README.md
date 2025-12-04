@@ -28,7 +28,7 @@ I am an engineer in Industrial Electronics and Automation, with a particular pas
 ###
 
 ## Connect with me:
-
+<p align="left">
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/antonio-garc%C3%ADa-garv%C3%AD/" target="_blank">
   <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40">
@@ -49,7 +49,7 @@ I am an engineer in Industrial Electronics and Automation, with a particular pas
 </a>
 
 <br>
-
+</p>
 <!--
 **AntonioGarciaGarvi/AntonioGarciaGarvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
