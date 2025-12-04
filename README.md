@@ -6,7 +6,11 @@ I am an engineer in Industrial Electronics and Automation, with a particular pas
 ### 🛠️ Tech Stack
 ###
 <div align="left">
+<img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow" alt="Python">
 <img src="https://img.shields.io/badge/-Pytorch-white?style=flat&logo=pytorch&logoColor=orange" alt="Pytorch">
+<img src="https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=blue" alt="opencv">
+<img src="https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&logoColor=Black" alt="Linux">
+<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white" alt="github">
 </div>
 
 ###
