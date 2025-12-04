@@ -26,6 +26,30 @@ I am an engineer in Industrial Electronics and Automation, with a particular pas
 
 
 ###
+
+## Connect with me:
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/antonio-garc%C3%ADa-garv%C3%AD/" target="_blank">
+  <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40">
+</a>
+
+<br>
+
+<!-- Personal Website -->
+<a href="https://antoniogarciagarvi.github.io/" target="_blank">
+  <img alt="Website" src="https://cdn.simpleicons.org/githubpages/000000" width="40">
+</a>
+
+<br>
+
+<!-- Email -->
+<a href="mailto:antonio.garcia.garvi@gmail.com">
+  <img alt="Gmail" src="https://cdn.simpleicons.org/gmail/EA4335" width="40">
+</a>
+
+<br>
+
 <!--
 **AntonioGarciaGarvi/AntonioGarciaGarvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
