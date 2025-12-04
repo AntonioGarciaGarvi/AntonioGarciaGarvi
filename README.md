@@ -13,8 +13,6 @@ I am an engineer in Industrial Electronics and Automation, with a particular pas
   <img src="https://cdn.simpleicons.org/ultralytics/2088FF" width="45"/>
   <img src="https://cdn.simpleicons.org/pandas/150458" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="45"/>
-  <img src="https://cdn.simpleicons.org/seaborn/4C8CBF" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45"/>
