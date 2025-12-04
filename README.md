@@ -1,5 +1,15 @@
 ## Hi there 👋
 I am an engineer in Industrial Electronics and Automation, with a particular passion for Computer Vision and Deep Learning. Currently, I work as a researcher at the Automatics and Industrial Informatics Research Institute (ai2) of the Universidad Politécnica de Valencia (UPV) , where I am pursuing my doctoral thesis on automating experiments with C. elegans nematodes using computer vision techniques. Specifically, my work involves developing algorithms for the detection, segmentation, and classification of these nematodes using deep learning models. Additionally, I am proposing strategies to train these models in situations where large amounts of data are unavailable.
+
+--- 
+
+### 🛠️ Tech Stack
+###
+<div align="left">
+<img src="https://img.shields.io/badge/-Pytorch-white?style=flat&logo=pytorch&logoColor=orange" alt="Pytorch">
+</div>
+
+###
 <!--
 **AntonioGarciaGarvi/AntonioGarciaGarvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
