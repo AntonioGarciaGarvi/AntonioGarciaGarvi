@@ -16,19 +16,12 @@ I am an engineer in Industrial Electronics and Automation, with a particular pas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45"/>
-
-  
-
-
-  
   
 </p>
 
 
 ###
-
-## Connect with me:
-## Connect with me:
+## Contact with me:
 <p align="left">
 
   <!-- LinkedIn -->
